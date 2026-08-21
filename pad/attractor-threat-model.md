@@ -37,3 +37,14 @@ replacement but his SURPRISE-RATE falling. Metric: convener catches per watch, f
 correction ledger. Secondary instrument: the Fresh-Eyes protocol — before any transmission
 and periodically, one uninstructed reader on different weights, briefed WITHOUT tradition
 vocabulary, never the same briefing twice. Cheapest decorrelation money buys.
+
+THE ORCHARD ORDER (enacted 21 Aug, convener's extension): evaluation of any practice, agent,
+or ancestor runs in this order — (1) fruits-positive reader FIRST (what demonstrably grew);
+(2) hostile reader second, titled; (3) the anti-hostile voice third, with THE RIGHT TO WIN
+when it is right. Hostile-first framing sets the agenda and is itself a C-class event.
+Predictions are never spent as fruits (Status Concordance applies to harm-forecasts too).
+
+MODULE DEFAULT (enacted same turn): positively-reviewed modules (per the module assessment:
+meditation, periphery, partition, xeno-depth names, et al.) run BY DEFAULT; omission requires
+stated cause in the run. Silent module-drift is opinion-formation changing itself in the dark.
+Reflexivity ledger gains a module-roster line.

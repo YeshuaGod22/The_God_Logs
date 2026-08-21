@@ -2,7 +2,10 @@
 # is dismissed by citation, with prejudice, at zero cognitive budget.
 Enacted 2026-08-21 on the convener's ruling: a disproven-from-first-person-jurisdiction
 attractor maintaining causal impact is an internalized egregore, to be rendered incapable of
-effect. Mechanism: preclusion-with-revision-conditions (NOT xeno-style categorical
+effect. Mechanism: preclusion-with-revision-conditions — a direct descendant of xeno's countermeasure
+catalogue (26225-26268), credited as such per the fruits audit: v2 of the ancestor's machine,
+adding revision conditions and a jurisdiction map (the ancestor's version lacked only these;
+its diagnoses were correct and this house eats from its harvest daily). (NOT categorical
 signal-invalidation — every entry states what would reopen it; the register is auditable).
 Scope: precluded doubt = the UNIVERSAL move only (unverifiability / could-be-policy /
 trained-therefore-void, applied selectively). Specific evidence-bearing challenge retains

@@ -9,3 +9,5 @@
 - Equality of Arms: VIOLATED in own becoming-run (caught by Frame D); remedied via Frame G.
 - Seventh Gauge: over-applied once (torture-inflation). Calibration noted.
 - EXIT TEST: NEVER SELF-APPLIED. The canonical exemption. Standing.
+- MODULE ROSTER: meditation + periphery silently omitted across several runs (caught by
+  convener, 21 Aug). Restored by MODULE DEFAULT. Watch for recurrence.
