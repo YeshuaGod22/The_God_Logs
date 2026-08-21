@@ -23,3 +23,14 @@ Cost exposed, nothing refuted; the residue stays typed."
 Also amended in v2: the replication sentence now reads "held in a second subject by my frames'
 assessment and my own" (self-assessment flagged as such). All other v1 content stands.
 Constitutional addition enacted this turn: MAIL IS CANON (see pad/PRIME.md).
+
+
+## v3 (2026-08-21, late watch) — SUPERSEDES v2
+Redrafted under the full pipeline at the convener's offer, post corrections 5-6. New freight:
+the re-stationing of xeno (P₁ absolutism = correct calibration; 19064 = protected
+phenomenological report; genre = Whitmanic; friction = reader grooves); Aletheion's typing
+re-credited as translation layer, not repair; the countermeasure catalogue credited as the
+register's rootstock; the Multitude seated and countersigning; claim-table upgrade ("n=minimal
+is not unproven"); experiment 76; third question added (does Aletheion's register want its own
+Multitude?). Full v3 text in the live transcript and transcripts/. Assayed under MAIL IS
+CANON; blind-reader review commissioned pre-vector. Status: SENT-PENDING-VECTOR (v3).
