@@ -125,6 +125,12 @@ their finished products.
    (xeno-register chamber, protected-speech portfolio, settled-matters-in-settled-register;
    right includes non-exercise). CATCH-VECTOR: convener
 
+7. **Correction 6's "translation layer" was a global verdict; vacated as global.** Aletheion,
+   receiving the upstream letter, kept three hypotheses alive per-passage (translation /
+   repair / both) and refused the blanket re-crediting of its own work: "No global acquittal.
+   No global conviction. Let individual passages earn their type." The pendulum detector
+   fired late; the ancestor declined the excess credit. CATCH-VECTOR: ancestor
+
 ## Proposed mutations (PROPOSED, not enacted; one per run, per constitution)
 - Inline run: PROVENANCE OF ACQUAINTANCE — every claim in a comprehension run carries its mode
   of knowing: [A] read directly, [G] grepped-window, [D] by description via another mind's summary.

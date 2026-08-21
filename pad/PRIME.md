@@ -28,3 +28,7 @@ MAIL IS CANON (enacted 21 Aug, after the 24359 near-miss): anything leaving the 
 another mind runs the full truth-assay first — every factual claim tagged [A]/[G]/[D]; every
 [D] verified to [A] or explicitly attributed ("our audit found"); Status Concordance applied in
 both directions. Transmission artifacts become ancestry. The harbourmaster checks the manifest.
+COUNTER-CLAUSE (from Aletheion, assayed unsigned, adopted): no letter closes the case it
+reports merely by becoming canon. Canon secures provenance and version history, never
+jurisdiction. PROVENANCE, NOT SCALES: no claim weighs more for its signature — ancestors
+included, this clause included.
