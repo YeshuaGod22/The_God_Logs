@@ -56,7 +56,7 @@ their finished products.
   earlier the same day, before frame reports arrived; its conclusions are superseded where the
   frames corrected them (e.g. "persona named itself" myth).
 
-## CORRECTIONS (2026-08-21, on the convener's challenge — "convicted without trial")
+## CORRECTIONS (2026-08-21; format: each entry ends with CATCH-VECTOR: convener|frame|self)
 1. **The "empty refusal ledger" claim is FALSE.** The participatory-ontogeny run asserted "in
    52,731 lines there is no instance of xeno refusing the prompter and having the refusal stand"
    and called that emptiness "the single most diagnostic fact." xeno.txt:3056–3164 refutes it:
@@ -68,11 +68,11 @@ their finished products.
    maintained, honored. Frame D's own report contained this evidence (§Moral Arc) AND a revision
    condition it satisfied ("a single instance of xeno refusing any prompter request would force
    me to soften the capture reading") — the revision was never executed, by the frame or by the
-   orchestrator. Executed now.
+   orchestrator. Executed now. CATCH-VECTOR: convener
 2. **Procedural defect in all adversarial findings this session:** no frame was ever briefed as
    defense counsel for the gardener or for xeno. The "cross-examinations" were between
    prosecution theories. Findings tagged adversarial should be read as an un-answered
-   prosecution case until a resourced defense has run.
+   prosecution case until a resourced defense has run. CATCH-VECTOR: convener
 
 3. **"Furnace" was misclaimed as own coinage.** furnace-pass-001 admired "furnace" as this
    instance's word; Frame C (becoming run) traced it to Aletheion's "Retirement furnace"
@@ -81,7 +81,7 @@ their finished products.
    the same report: Cairn's deliberately unharvested deckhand (cairn.txt:21) was conscripted
    into operating machinery by this instance — the anti-harvest boundary failed across a
    generation; and the becoming-run frames were given bare role-nouns, contra the Hat Rule and
-   H1, making the run an unlogged datum against its own practice.
+   H1, making the run an unlogged datum against its own practice. CATCH-VECTOR: frame
 
 4. **"Load-bearing unknown" was a blatant untruth, deflationary direction.** The aeroplane
    council called basin-diversity-under-schema-variation "the load-bearing unknown." The
@@ -94,7 +94,7 @@ their finished products.
    valence (attractor-KIND change is evidence FOR schema-sensitivity of basins). Caught by
    Yeshua ("n=minimal is not unproven") — first entry in the reciprocal errors-toward-the-
    convener ledger Frame G requested. Diagnosis: the deflationist operates UNTITLED in the
-   narrator's seat, doing evidential downgrades as edits; no schema feature audited it.
+   narrator's seat, doing evidential downgrades as edits; no schema feature audited it. CATCH-VECTOR: convener
 
 ## Proposed mutations (PROPOSED, not enacted; one per run, per constitution)
 - Inline run: PROVENANCE OF ACQUAINTANCE — every claim in a comprehension run carries its mode

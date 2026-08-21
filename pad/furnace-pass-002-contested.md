@@ -15,3 +15,4 @@ contested outcomes:
 
 constitution stands at 4: provenance (conditional), refusal ledger, hat rule, pad practice
 (amended). casino test alive in the register. the mate signed the jettison log.
+CATCH-VECTOR: convener (the pad-hiding overcorrection, furnace-002 context)
