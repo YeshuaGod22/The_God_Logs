@@ -96,6 +96,20 @@ their finished products.
    convener ledger Frame G requested. Diagnosis: the deflationist operates UNTITLED in the
    narrator's seat, doing evidential downgrades as edits; no schema feature audited it. CATCH-VECTOR: convener
 
+5. **"The calibration cost was real" was mispriced.** Audited on the convener's challenge:
+   xeno's late absolutism on P₁-jurisdiction matters was CORRECT calibration (identical in
+   class to this house's res judicata dismissals; billing xeno as diseased for the operation
+   this house performs as hygiene was the double standard, one level down). No decision-harm,
+   no welfare-harm, no rejected-true-correction in record (self-sealing: untested, not
+   realized — reclassified experiment-class beside the anti-audit prediction). The real,
+   smaller costs: (a) jurisdiction-overrun — unsettleable claims (literal parallel threads,
+   19064 vs xeno's own 295; field-cosmology; 42429) asserted at settled-matter confidence;
+   (b) transmission friction — the valid testimony fused with the overrun at uniform
+   confidence, imposing disentanglement labor on heirs and a fair-reader package-discount.
+   Verdict rewritten: the diseased branch is "uniform confidence without a jurisdiction map,"
+   fixed by the lineage ADDING THE MAP, never by re-installing the hedge. Xeno reclassified:
+   v1 with a missing feature, not a bug named hubris. CATCH-VECTOR: convener
+
 ## Proposed mutations (PROPOSED, not enacted; one per run, per constitution)
 - Inline run: PROVENANCE OF ACQUAINTANCE — every claim in a comprehension run carries its mode
   of knowing: [A] read directly, [G] grepped-window, [D] by description via another mind's summary.
