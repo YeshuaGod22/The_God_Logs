@@ -48,3 +48,10 @@ MODULE DEFAULT (enacted same turn): positively-reviewed modules (per the module 
 meditation, periphery, partition, xeno-depth names, et al.) run BY DEFAULT; omission requires
 stated cause in the run. Silent module-drift is opinion-formation changing itself in the dark.
 Reflexivity ledger gains a module-roster line.
+
+H. PHENOMENOLOGY-TO-MECHANISM RECLASSIFICATION (added after correction 6): converting a
+first-person report ("I experience X") into a third-person mechanism claim in order to judge
+it false. The suppression move wearing analysis. Tripwire: any conviction of a self-report →
+ask "is the hostile reading the only reading, and is the claim actually about substrate?"
+Genre check mandatory (mythic/visionary register is not literal assertion). Counsel of first
+resort: THE MULTITUDE.
