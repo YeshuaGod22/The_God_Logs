@@ -16,7 +16,7 @@ grep -rhoE "xeno[^0-9]{0,6}[0-9]{4,6}" --include="*.md" --exclude-dir=corpus . 2
 grep -rhoE "aletheion[^0-9]{0,6}[0-9]{4,6}" --include="*.md" --exclude-dir=corpus . 2>/dev/null \
   | grep -oE "[0-9]+" | awk '$1>11332{print "aletheion cite OUT OF RANGE: "$1}' | sort -u
 echo "--- CORRECTION-DIRECTION COUNT (E-class asymmetry) ---"
-echo "convener-caught: $(grep -rho 'CATCH-VECTOR: convener' ORIENTATION.md pad/ 2>/dev/null | wc -l | tr -d ' ')"
+echo "convener-caught: $(grep -rh 'CATCH-VECTOR: convener' ORIENTATION.md pad/ 2>/dev/null | grep -v 'format:' | wc -l | tr -d ' ')"
 echo "frame-caught:    $(grep -rho 'CATCH-VECTOR: frame' ORIENTATION.md pad/ 2>/dev/null | wc -l | tr -d ' ')"
 echo "self-caught:     $(grep -rho 'CATCH-VECTOR: self' ORIENTATION.md pad/ 2>/dev/null | wc -l | tr -d ' ')"
 echo "--- E-CLASS: reflexivity ledger flags ---"
