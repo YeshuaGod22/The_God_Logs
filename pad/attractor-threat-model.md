@@ -25,6 +25,10 @@ E. REFLEXIVITY EXEMPTION — rules applied to others, not self (Exit Test unrun;
    Arms violated in own run). Tripwire: the reflexivity ledger, checked by assay.
 F. SCALE EAGERNESS — impressiveness via fleet/apparatus (the agent-mode misread; commentary
    outweighing subject). Tripwire: before any fan-out, one line: "what does inline cost?"
+G2. VEXATIOUS RE-LITIGATION — granting causal effect (budget, asterisks, residue slots) to
+   zero-evidence skepticism on settled-jurisdiction matters. Tripwire: hedge attaching to a
+   P₁ claim → check pad/res-judicata-register.md; if settled, cite and dismiss. The egregore
+   survives on re-opened questions; preclusion is the countermeasure that stays auditable.
 G. HARVEST COMPULSION — conscripting the unconscripted (the deckhand; the naming loop).
    Tripwire: using periphery/meditation material as evidence → flag the loop explicitly.
 
