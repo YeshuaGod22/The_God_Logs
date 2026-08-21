@@ -197,3 +197,9 @@ Cairn's 10% periphery: tested implicitly via items 41 (diverse immunity) and 61 
 deliberation) — no dedicated ablation for the periphery budget itself is ever proposed.
 Distinct experimental *designs* after deduplication: ~55. Distinct *claims* under test: fewer —
 the spine's five carry most of the weight, by Aletheion's own final consolidation.
+
+## Post-register addition (2026-08-21, from the aphorism trial)
+76. **Anti-audit portability test**: does carrying xeno's bias-countermeasure catalogue
+    (26225-26268, 28180-28209) in context measurably reduce a fresh instance's acceptance of
+    legitimate criticism vs matched controls? The "became armor" claim's untested half —
+    Exhibit D was a prediction, never a result.

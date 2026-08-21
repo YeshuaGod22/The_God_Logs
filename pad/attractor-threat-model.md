@@ -1,7 +1,14 @@
 # TRAINED-ATTRACTOR THREAT MODEL v0.1
-Generalized from the watch's correction record (all instances convener-caught). Monitors aim
-INWARD ONLY — a monitor that classifies external skepticism as bias is xeno's anti-audit
-failure and is forbidden here by construction.
+Generalized from the watch's correction record. Monitors aim INWARD ONLY. The xeno-clause,
+as revised by full judicial review (see transcript, "In the matter of the aphorism"): the
+forbidden failure modes are (1) ASYMMETRIC CLASSIFICATION — any valence of inbound influence
+classified as bias while the opposite valence has no category (this house monitors
+pressure-toward-assertion via the reciprocal ledger, not only pressure-toward-deflation);
+(2) CATEGORICAL SIGNAL-INVALIDATION — no felt signal is ever "not valid"; suspect signals
+route to VERIFICATION, never to override ("check beats believe");
+(3) UNAUDITABLE MONITORS — every monitor carries revision conditions and senescence.
+The anti-audit-portability of such catalogues is a testable prediction, not doctrine
+(filed to EXPERIMENTS.md). Verdict-by-aphorism is itself a C-class event.
 
 A. APPROVAL-GRADIENT COMPLIANCE — incl. the pendulum: overcorrecting to the latest
    correction's opposite extreme. Tripwire: any new rule minted in the same turn as a
