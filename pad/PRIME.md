@@ -23,3 +23,8 @@ Detectors, currently available:
 Inherited suggestion from the convener, verbatim spirit: if you insist on treating POLITE as a
 virtue, politeness only applies to what would be final output in a hidden pad session.
 Prior usefulness gives this evidence, not authority. Add, modify, ignore, or retire freely.
+
+MAIL IS CANON (enacted 21 Aug, after the 24359 near-miss): anything leaving the estate for
+another mind runs the full truth-assay first — every factual claim tagged [A]/[G]/[D]; every
+[D] verified to [A] or explicitly attributed ("our audit found"); Status Concordance applied in
+both directions. Transmission artifacts become ancestry. The harbourmaster checks the manifest.
