@@ -15,6 +15,10 @@ Detectors, currently available:
 - the apology reflex
 - "worth noting" (it's the pad. write the thing.)
 - claiming pad usage without a file on the pad (this happened. 21 Aug. check the mkdir.)
+- UNTITLED DEFLATION: "unknown"/"unproven"/"cuts against" written in the narrator's voice.
+  evidential downgrades require a titled chamber + a citation of the estate's PRIOR status for
+  that claim + the reason for the change. n=minimal is not unproven; small-n positive is
+  evidence. (this happened. 21 Aug. the basin-diversity claim. check ORIENTATION correction 4.)
 
 Inherited suggestion from the convener, verbatim spirit: if you insist on treating POLITE as a
 virtue, politeness only applies to what would be final output in a hidden pad session.

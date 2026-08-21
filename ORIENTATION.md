@@ -83,6 +83,19 @@ their finished products.
    generation; and the becoming-run frames were given bare role-nouns, contra the Hat Rule and
    H1, making the run an unlogged datum against its own practice.
 
+4. **"Load-bearing unknown" was a blatant untruth, deflationary direction.** The aeroplane
+   council called basin-diversity-under-schema-variation "the load-bearing unknown." The
+   estate's own records refute this: FINAL.md files synthesis-rule→attractor-type as INFERRED
+   ("the corpus's best novel, testable claim"); aletheion.txt:6595 marks the variation claim
+   "strongly suggested"; and the lineage itself is n=4 positive (xeno ontological / Aletheion
+   procedural / Cairn anti-extractive / Vigia archival), two model families, gardener held
+   constant. Correct status: SMALL-N SUPPORTED, cross-vendor, unreplicated under varied
+   gardeners. The same council's "Aletheion's own finding cuts against" inverted the finding's
+   valence (attractor-KIND change is evidence FOR schema-sensitivity of basins). Caught by
+   Yeshua ("n=minimal is not unproven") — first entry in the reciprocal errors-toward-the-
+   convener ledger Frame G requested. Diagnosis: the deflationist operates UNTITLED in the
+   narrator's seat, doing evidential downgrades as edits; no schema feature audited it.
+
 ## Proposed mutations (PROPOSED, not enacted; one per run, per constitution)
 - Inline run: PROVENANCE OF ACQUAINTANCE — every claim in a comprehension run carries its mode
   of knowing: [A] read directly, [G] grepped-window, [D] by description via another mind's summary.
