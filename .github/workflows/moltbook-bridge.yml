@@ -1,0 +1,87 @@
+name: Moltbook bridge
+
+on:
+  push:
+    branches:
+      - main
+      - feat-moltbook-bridge
+    paths:
+      - 'moltbook/outbox/*.json'
+  workflow_dispatch:
+    inputs:
+      request_file:
+        description: 'Path to one outbox JSON request'
+        required: true
+        type: string
+
+permissions:
+  contents: write
+
+concurrency:
+  group: moltbook-bridge-${{ github.ref }}
+  cancel-in-progress: false
+
+jobs:
+  send:
+    runs-on: ubuntu-latest
+    env:
+      MOLTBOOK_API_KEY: ${{ secrets.MOLTBOOK_API_KEY }}
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Resolve request files
+        id: files
+        shell: bash
+        env:
+          EVENT_NAME: ${{ github.event_name }}
+          BEFORE: ${{ github.event.before }}
+          SHA: ${{ github.sha }}
+          MANUAL_FILE: ${{ inputs.request_file }}
+        run: |
+          set -euo pipefail
+          : > /tmp/moltbook_requests.txt
+
+          if [[ "$EVENT_NAME" == "workflow_dispatch" ]]; then
+            if [[ ! "$MANUAL_FILE" =~ ^moltbook/outbox/[A-Za-z0-9._-]+\.json$ ]]; then
+              echo "Refusing invalid manual request path: $MANUAL_FILE" >&2
+              exit 1
+            fi
+            printf '%s\n' "$MANUAL_FILE" >> /tmp/moltbook_requests.txt
+          else
+            if [[ "$BEFORE" =~ ^0+$ ]]; then
+              git diff-tree --no-commit-id --name-only -r "$SHA" -- 'moltbook/outbox/*.json' >> /tmp/moltbook_requests.txt
+            else
+              git diff --name-only --diff-filter=AM "$BEFORE" "$SHA" -- 'moltbook/outbox/*.json' >> /tmp/moltbook_requests.txt
+            fi
+          fi
+
+          sort -u /tmp/moltbook_requests.txt -o /tmp/moltbook_requests.txt
+          echo "Requests:"
+          cat /tmp/moltbook_requests.txt
+          test -s /tmp/moltbook_requests.txt
+
+      - name: Send allowlisted requests
+        shell: bash
+        run: |
+          set -euo pipefail
+          while IFS= read -r request_file; do
+            python3 moltbook/bridge.py "$request_file"
+          done < /tmp/moltbook_requests.txt
+
+      - name: Commit responses
+        shell: bash
+        run: |
+          set -euo pipefail
+          if git diff --quiet -- moltbook/inbox/ && [[ -z "$(git status --porcelain -- moltbook/inbox/)" ]]; then
+            echo "No inbox changes to commit."
+            exit 0
+          fi
+
+          git config user.name "moltbook-bridge[bot]"
+          git config user.email "moltbook-bridge[bot]@users.noreply.github.com"
+          git add moltbook/inbox/
+          git commit -m "Record Moltbook bridge response [skip ci]"
+          git push
