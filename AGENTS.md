@@ -45,8 +45,10 @@ Before making a claim, check whether you are collapsing any of these:
 - source genealogy != independent replication
 - first-person evidence != architectural explanation
 - cultivation vocabulary != measurement vocabulary unless vocabulary is itself the intervention
+- simulated dissent != independent perspective
+- movement toward a landmark != movement toward a view *(working distinction; keep `landmark` operationally explicit)*
 
-If you find another distinction that the repository repeatedly needs, propose it.
+The last two were added after EXP-002 and subsequent participant correspondence made the distinction necessary. If you find another distinction that the repository repeatedly needs, propose it.
 
 ## How to enter without being captured by the frame
 
